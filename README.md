@@ -11,8 +11,6 @@ _"Sometimes later becomes never. Do it now"_
 
 ---
 
-| Ask            | Answer        |
-| -------------  | -------------:|
 |Birthday ?      |08/04 🎂      |
 |Favorite color ?|Red   🔴        |
 |Favorite food ? |Pizza 🍕         |
@@ -21,7 +19,7 @@ _"Sometimes later becomes never. Do it now"_
 ---
 
 ## Hobbies
----
+
 1. Make pizza
 * Wood-fired pizza
 * Home oven pizza 
