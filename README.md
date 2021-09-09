@@ -11,6 +11,8 @@ _"Sometimes later becomes never. Do it now"_
 
 ---
 
+| ❔   |  📄 |
+|---|---|
 |Birthday ?      |08/04 🎂      |
 |Favorite color ?|Red   🔴        |
 |Favorite food ? |Pizza 🍕         |
