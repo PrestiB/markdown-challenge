@@ -1,6 +1,6 @@
 # Bruno Presti
 
-_"Sometimes later becomes never. Do it now"_
+_"Sometimes later becomes never. Do it now"_ 
 
 ---
 
@@ -13,10 +13,10 @@ _"Sometimes later becomes never. Do it now"_
 
 | Ask            | Answer        |
 | -------------  | -------------:|
-|Birthday ?      |08/04          |
-|Favorite color ?|Red            |
-|Favorite food ? |Pizza          |
-|Pinneapple on pizza ? |NO, please          |
+|Birthday ?      |08/04 🎂      |
+|Favorite color ?|Red   🔴        |
+|Favorite food ? |Pizza 🍕         |
+|Pinneapple on pizza ? |❌ NO, please  🙏        |
 
 ---
 
@@ -38,7 +38,7 @@ _"Sometimes later becomes never. Do it now"_
 ## A funny story
 When I was a teenager, it was winter and we were at Kinepolis with the school. The water in the "fountain" in front of the cinema was frozen. I put my foot on it for a laugh and the ice broke and my leg got soaked
 
-##### _Can we say that the sprinkler has been watered?_
+##### _Can we say that the sprinkler has been watered?_ 👀
 
 ---
 
